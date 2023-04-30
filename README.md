@@ -2,7 +2,7 @@
 
 ## About Me
 - Full Stack Developer Jr
-- In love with codig
+- In love with coding
 - Currently open to new opportunities
 
 ## Skills
