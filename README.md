@@ -22,9 +22,6 @@
     <a href="mailto:devleoonardoferreira@gmail.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/-gmail-ffe400?style=for-the-badge&logo=gmail&logoColor=black">
     </a>
-    <a href="https://www.discordapp.com/users/816006927984623626" target="_blank">
-      <img src="https://img.shields.io/badge/-discord-ffe400?style=for-the-badge&logo=discord&logoColor=black">
-    </a>
   </p>
 
   <details>
