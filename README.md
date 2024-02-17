@@ -17,10 +17,10 @@
   <h3>contact me</h3>
   <p align="center">  
     <a href="https://www.linkedin.com/in/leoonaardoferreira/" alt="Linkedin" target="_blank">
-      <img src="https://img.shields.io/badge/-linkedin-ffe400.svg?style=for-the-badge&logo=linkedin&logoColor=black">
+      <img src="https://img.shields.io/badge/-linkedin-white.svg?style=for-the-badge&logo=linkedin&logoColor=0da975">
     </a>
     <a href="mailto:devleoonardoferreira@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-gmail-ffe400?style=for-the-badge&logo=gmail&logoColor=black">
+      <img src="https://img.shields.io/badge/-gmail-white?style=for-the-badge&logo=gmail&logoColor=0da975">
     </a>
   </p>
 
