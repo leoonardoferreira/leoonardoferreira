@@ -24,23 +24,4 @@
     </a>
   </p>
 
-  <details>
-    <summary><h3>GitHub Stats</h3><i>(ver mais)</i></summary>
-    <br>
-    <div align="center">
-      <a href = "https://github.com/leoonardoferreira">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoonardoferreira&langs_count=6&layout=compact&line_height=30&locale=pt-br&theme=great-gatsby">
-        <!--<img height="180em" src="https://streak-stats.demolab.com?user=leoonardoferreira&theme=great-gatsby&locale=pt_BR&fire=d95757&stroke=ffa424">-->
-      </a>
-    </div>
-    <br>
-    <br>
-    <div align="center">
-      <b>profile views</b>
-      <br>
-      <BR>
-      <img src="https://komarev.com/ghpvc/?username=leoonardoferreira&style=flat-square&color=grey&label="">
-    </div>
-  </details>
-
 </samp>
