@@ -1,7 +1,7 @@
 <samp>
   <img align="right" src="https://cdn.discordapp.com/attachments/1094416594156920955/1108574064232108084/8E8A8FCC-B497-4EDA-B6FA-C8982D2D2556.jpg" height="270px">
   <b>Hi, there!</b>
-  <p align="left">My name is Leonardo Ferreira, I live in Sao Paulo, Brazil. I'm 18 years old and currently I'm studying web and mobile development. My main experiences are with Front End projects.</p>
+  <p align="left">My name is Leonardo Ferreira, I live in Sao Paulo, Brazil. I'm 19 years old and currently I'm studying web and mobile development. My main experiences are with Front End projects.</p>
 
   <h3>stacks</h3>
 
